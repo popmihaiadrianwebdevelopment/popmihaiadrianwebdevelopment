@@ -1,4 +1,4 @@
-<h1 align="center">🦍Pop Mihai Adrian</h1>
+<h1 align="center">Pop Mihai Adrian</h1>
 Studying Software Engineer[Web development Certificated
 <h3 align="center">I'm a student of Software Engineer at "Universidad Autonoma Baja California", and I have certificates of "Modern HTML & CSS""Web Development Bootcamp", I'm 19 years old and I'm from mexico</h3>
 
