@@ -9,6 +9,8 @@ Studying Software Engineer[Web development Certificated
 - 👨‍💻 All of my projects are available at [https://github.com/popmihaiadrianwebdevelopment](https://github.com/popmihaiadrianwebdevelopment)
 - You can see my frontend challenges here : [https://www.frontendmentor.io/profile/popmihaiadrianwebdevelopment](https://www.frontendmentor.io/profile/popmihaiadrianwebdevelopment)
 
+- 💬 Ask me about **HTML & CSS, python, C, JS and React**
+
 - 📫 How to reach me **mihaipopwebdevelopment@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
