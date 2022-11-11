@@ -1,6 +1,5 @@
 <h1 align="center">Pop Mihai Adrian</h1>
-Studying Software Engineer[Web development Certificated
-<h3 align="center">I'm a student of Software Engineer at "Universidad Autonoma Baja California", and I have certificates of "Modern HTML & CSS""Web Development Bootcamp", I'm 19 years old and I'm from mexico</h3>
+<h3 align="center">I'm a student of Software Engineer at "Universidad Autonoma Baja California", and I have certificates of "Modern HTML & CSS""Web Development Bootcamp","Python programming" and "Javascript". I'm 19 years old and I'm from mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
